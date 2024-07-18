@@ -1,4 +1,4 @@
-#Predicting Customer Churn
+Predicting Customer Churn
 
 In this directory, there are 2 python files, "DEP3.ipynb" is the actual trained model using logistic regression. 
 During its training and testing, the two dataset files "training.csv" and "testing.csv" were used as training and testing data.
