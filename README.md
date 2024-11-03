@@ -16,7 +16,7 @@ This repository serves as a central location for all the tasks and work complete
 
 ## Tasks
 
-1. **Task 1**: Model Evaluation using Linear Regression
+1. **Task 1**: Model Evaluation using Linear Regression 
 
 More tasks will be added as the internship progresses.
 
