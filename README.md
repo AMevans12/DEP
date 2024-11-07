@@ -9,7 +9,7 @@ Welcome to the repository for all my work during the DEP internship. This reposi
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Installation](#installation)
-
+ 
 ## Introduction
 
 This repository serves as a central location for all the tasks and work completed during my internship at DEP. It includes various pieces of code, documentation, and other resources to facilitate collaboration and sharing.
