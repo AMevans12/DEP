@@ -3,7 +3,7 @@
 Welcome to the repository for all my work during the DEP internship. This repository contains code, documentation, and resources related to the tasks I am working on.
 
 ## Table of Contents
-
+ 
 - [Introduction](#introduction)
 - [Tasks](#tasks)
 - [Usage](#usage)
